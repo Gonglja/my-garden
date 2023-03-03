@@ -3,7 +3,6 @@
 ---
 
 
-
 两种学习路径
 
 - [官方手册](https://docs.yoctoproject.org/)，更新快
