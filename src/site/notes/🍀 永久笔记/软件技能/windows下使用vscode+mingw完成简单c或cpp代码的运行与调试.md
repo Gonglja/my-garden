@@ -46,11 +46,11 @@
 
 选择 [x86_64-win32-seh](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-win32/seh/x86_64-8.1.0-release-win32-seh-rt_v6-rev0.7z)
 
-![Pasted image 20230114180958.png](/img/user/Resources/Images/Pasted%20image%2020230114180958.png)
+![Pasted_image_20230114180958.png](/img/user/Resources/Images/Pasted_image_20230114180958.png)
 
 **需注意：win 下如线程模式使用 posix，会造成 powershell 下无法通过编译链生成 a.exe，推荐使用如下图中工具链**
 
-![Pasted image 20230116100458.png](/img/user/Resources/Images/Pasted%20image%2020230116100458.png)
+![Pasted_image_20230116100458.png](/img/user/Resources/Images/Pasted_image_20230116100458.png)
 
 #### 配置环境变量
 
@@ -58,29 +58,29 @@
 
 `windows 键 + R` 打开 **运行**，输入 `sysdm.cpl`，回车进入
 
-![Pasted image 20230114182219.png](/img/user/Resources/Images/Pasted%20image%2020230114182219.png)
+![Pasted_image_20230114182219.png](/img/user/Resources/Images/Pasted_image_20230114182219.png)
 
 点击 **高级**
 
-![Pasted image 20230114182315.png](/img/user/Resources/Images/Pasted%20image%2020230114182315.png)
+![Pasted_image_20230114182315.png](/img/user/Resources/Images/Pasted_image_20230114182315.png)
 
 点击 **环境变量** 添加 mingw 工具链路径到 `Path` 下
 
-![Pasted image 20230114182359.png](/img/user/Resources/Images/Pasted%20image%2020230114182359.png)
+![Pasted_image_20230114182359.png](/img/user/Resources/Images/Pasted_image_20230114182359.png)
 
 下载后解压的工具链路径：
 
-![Pasted image 20230116090634.png](/img/user/Resources/Images/Pasted%20image%2020230116090634.png)
+![Pasted_image_20230116090634.png](/img/user/Resources/Images/Pasted_image_20230116090634.png)
 
 推荐在 **系统变量** 中的 **Path** 下添加刚刚下载的编译链的路径 xxx + `\bin`
 
 比如你下载后解压的路径为 `C:\1\mingw64`，那么在此处就要添加 `C:\1\mingw64\bin`
 
-![Pasted image 20230114182525.png](/img/user/Resources/Images/Pasted%20image%2020230114182525.png)
+![Pasted_image_20230114182525.png](/img/user/Resources/Images/Pasted_image_20230114182525.png)
 
 环境变量配置：**添加后不要忘记点确定**
 
-![Pasted image 20230116090611.png](/img/user/Resources/Images/Pasted%20image%2020230116090611.png)
+![Pasted_image_20230116090611.png](/img/user/Resources/Images/Pasted_image_20230116090611.png)
 
 ### 配置 vscode 环境
 
@@ -297,14 +297,14 @@ C:\Users\Administrator\Desktop\TEST\code>
 
 首先，通过 Vscode 打开工程（含有 `.vscode` 文件夹的目录），在打开 `c` 文件，根据右上角选择 **调试** 还是 **运行**，也可以通过快捷键调试（F5）
 
-![Pasted image 20230120054846.png](/img/user/Resources/Images/Pasted%20image%2020230120054846.png)
+![Pasted_image_20230120054846.png](/img/user/Resources/Images/Pasted_image_20230120054846.png)
 
 如下为调试过程中的截图：
 
 `gdb` 调试 `c` 文件，如下图
 
-![Pasted image 20230116101007.png](/img/user/Resources/Images/Pasted%20image%2020230116101007.png)
+![Pasted_image_20230116101007.png](/img/user/Resources/Images/Pasted_image_20230116101007.png)
 
 `gdb` 调试 `cpp` 文件，如下图
 
-![Pasted image 20230116101401.png](/img/user/Resources/Images/Pasted%20image%2020230116101401.png)
+![Pasted_image_20230116101401.png](/img/user/Resources/Images/Pasted_image_20230116101401.png)
