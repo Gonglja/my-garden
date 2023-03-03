@@ -3,7 +3,7 @@
 ---
 
 
-yocto 是国际单位中指定的测量单位的最小部分，在本文中[yocto](https://www.yoctoproject.org/) 是一个[[构建工具\|构建工具]]，帮助开发人员快速定制化 linux 项目，而不需要关心其底层架构。
+yocto 是国际单位中指定的测量单位的最小部分，在本文中 [yocto](https://www.yoctoproject.org/) 是一个 [[构建工具\|构建工具]]，帮助开发人员快速定制化 linux 项目，而不需要关心其底层架构。
 
 - 特点
 	- 社区活跃
@@ -21,7 +21,8 @@ yocto 是国际单位中指定的测量单位的最小部分，在本文中[yoct
 	- 需要科学上网
 	- 交叉编译
 
-[[🍀 永久笔记/嵌入式/yocto/yocto\|yocto]] 与 [[OpenEmbedded\|OpenEmbedded]]的关系
+[[🍀 永久笔记/嵌入式/yocto/yocto\|yocto]] 与 [[OpenEmbedded\|OpenEmbedded]] 的关系
+
 - 相辅相成
 - OE 维护 bitbake 和一个元数据层
 - YP 侧重构建系统本身和针对交叉编译工具化
