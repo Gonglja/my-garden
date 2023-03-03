@@ -301,10 +301,10 @@ C:\Users\Administrator\Desktop\TEST\code>
 
 如下为调试过程中的截图：
 
-`gdb` 调试 `c` 文件
+`gdb` 调试 `c` 文件，如下图
 
 ![Pasted image 20230116101007.png](/img/user/Resources/Images/Pasted%20image%2020230116101007.png)
 
-`gdb` 调试 `cpp` 文件
+`gdb` 调试 `cpp` 文件，如下图
 
 ![Pasted image 20230116101401.png](/img/user/Resources/Images/Pasted%20image%2020230116101401.png)
