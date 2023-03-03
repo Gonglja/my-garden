@@ -12,13 +12,17 @@ Python can't change the filesystem locale after loading so we need a UTF-8 when 
 这个是本地语言设置的问题：python 需要本地语言环境为 en_US.UTF-8
 
 解决方法如下：
+
 #### 先安装语言包
+
 `sudo apt-get install locales`
 
 #### 设置语言
+
 `sudo dpkg-reconfigure locales`
 
 使用上述命令后会弹出，选择 `149 en_US.UTF-8, 3. en_US.UTF-8` 
+
 ```shell
 u@728c4b2a9f61:/home/data/vmware/os/nxp/L4.19.35_imx8qm/build-xwayland$ sudo dpkg-reconfigure locales  
 perl: warning: Setting locale failed.  
