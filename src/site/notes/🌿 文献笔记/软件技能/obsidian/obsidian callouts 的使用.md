@@ -3,7 +3,7 @@
 ---
 
 
-详见：[Use callouts](https://help.obsidian.md/How+to/Use+callouts)
+详见：[Use callouts](https://help.obsidian.md/Editing+and+formatting/Callouts)
 
 > [!info]
 > 测试一下 callouts
