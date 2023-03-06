@@ -3,6 +3,8 @@
 ---
 
 
+配合 [v2raya](https://v2raya.org/) 使用，效果杠杠滴。
+
 设置全局代理
 
 ```shell
