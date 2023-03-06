@@ -3,19 +3,13 @@
 ---
 
 
-[[🍀 永久笔记/嵌入式/yocto/yocto 中的一些术语\|yocto 中的一些术语]]
-
-[[🍀 永久笔记/嵌入式/yocto/yocto 是什么\|yocto 是什么]]
-
-[[🍀 永久笔记/嵌入式/yocto/yocto 可以做什么\|yocto 可以做什么]]
-
-[[🍀 永久笔记/嵌入式/yocto/yocto 怎么用\|yocto 怎么用]]
-
-[[🍀 永久笔记/嵌入式/yocto/yocto 命令行\|yocto 命令行]]
-
-[[🍀 永久笔记/嵌入式/yocto/yocto 中的元数据文件\|yocto 中的元数据文件]]
-
-[[🍀 永久笔记/嵌入式/yocto/yocto 架构分析\|yocto 架构分析]]
+- [[🍀 永久笔记/嵌入式/yocto/yocto 中的一些术语\|yocto 中的一些术语]]
+- [[🍀 永久笔记/嵌入式/yocto/yocto 是什么\|yocto 是什么]]
+- [[🍀 永久笔记/嵌入式/yocto/yocto 可以做什么\|yocto 可以做什么]]
+- [[🍀 永久笔记/嵌入式/yocto/yocto 怎么用\|yocto 怎么用]]
+- [[🍀 永久笔记/嵌入式/yocto/yocto 命令行\|yocto 命令行]]
+- [[🍀 永久笔记/嵌入式/yocto/yocto 中的元数据文件\|yocto 中的元数据文件]]
+- [[🍀 永久笔记/嵌入式/yocto/yocto 架构分析\|yocto 架构分析]]
 
 #### 一些问题
 
