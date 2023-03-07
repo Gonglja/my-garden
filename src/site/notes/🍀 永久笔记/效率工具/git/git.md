@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/🍀 永久笔记/效率工具/git/git/","created":"2023/03/06 13:31:38","updated":"2023/03/07 13:10:32"}
+{"dg-publish":true,"permalink":"/🍀 永久笔记/效率工具/git/git/"}
 ---
 
 
