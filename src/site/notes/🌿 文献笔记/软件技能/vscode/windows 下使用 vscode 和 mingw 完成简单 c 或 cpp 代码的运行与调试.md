@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/🌿 文献笔记/软件技能/vscode/windows 下使用 vscode 和 mingw 完成简单 c 或 cpp 代码的运行与调试/","created":"2023/03/04 00:00:51","updated":"2023/03/07 13:15:42"}
+{"dg-publish":true,"permalink":"/🌿 文献笔记/软件技能/vscode/windows 下使用 vscode 和 mingw 完成简单 c 或 cpp 代码的运行与调试/"}
 ---
 
 
