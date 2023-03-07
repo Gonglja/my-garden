@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/🌿 文献笔记/软件技能/obsidian/obsidian/"}
+{"dg-publish":true,"permalink":"/🌿 文献笔记/软件技能/obsidian/obsidian/","created":"2023/03/04 00:00:51","updated":"2023/03/07 13:15:42"}
 ---
 
 
