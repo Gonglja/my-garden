@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/🌿 文献笔记/软件技能/obsidian/obsidian callouts 的使用/","tags":["Tools/obsidian"]}
+{"dg-publish":true,"permalink":"/🌿 文献笔记/软件技能/obsidian/obsidian callouts 的使用/","tags":["Tools/obsidian"],"created":"2023/03/05 11:04:46","updated":"2023/03/07 13:15:42"}
 ---
 
 
