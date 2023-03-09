@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/🌿 文献笔记/linux 0.11 源码分析/","tags":["Linux","Linux/kernel"]}
+{"dg-publish":true,"permalink":"/🌿 文献笔记/linux 0.11 源码分析/","tags":["Linux","Linux/kernel","源码分析"]}
 ---
 
 
