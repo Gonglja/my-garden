@@ -20,3 +20,4 @@ Digital Garden 是一个类似 Obsidian 官方 Publish 的工具，教程详细�
 	- 图片名称不能包含 ` ` 空格，否则图片在 web 只会显示其名称
 	- 时间显示有问题
 		- ![Pasted_image_20230307151438.png](/img/user/Resources/Images/Pasted_image_20230307151438.png)
+	- 文档中使用语法 `![[]]` 嵌入 excalidraw 图时，excalidraw 名为中文不显示，切成英文就好了，[详情](https://github.com/Gonglja/my-garden/commit/eb905b02a9cf4142105b5754e4cc4a37ab9ae3c4)
